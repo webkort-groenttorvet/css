@@ -1,0 +1,3 @@
+#offcanvas-title {
+  display:none !important;
+}
